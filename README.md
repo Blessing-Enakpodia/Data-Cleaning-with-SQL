@@ -10,7 +10,7 @@ Data cleaning is a crucial part of the data analysis process. before data is ana
 6. Ensuring every column has its appopriate data type assigned.
 
 # SKILLS DEMONSTRATED 
-A comprehensive grasp and adept application of intermediate SQL statements, including Window functions, Common Table Expressions (CTEs), and CASE WHEN clauses, essential for proficient data manipulation and analysis. 
+A comprehensive grasp and adept application of intermediate SQL statements, including Window functions, Common Table Expressions (CTEs), CASE WHEN clauses, Aggregate Functions and Converting Data types.  essential for proficient data manipulation and analysis. 
 
 # DATA CLEANING
-All SQL queries can be found 
+All SQL queries can be found here
